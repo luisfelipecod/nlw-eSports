@@ -21,7 +21,6 @@
   <li>Typescript</li>
   <li>Tailwind CSS</li>
   <li>Phosphor Icons</li>
-  <li>Vite</li>
   <li>Radix</li>
   <li>Axios</li>
   <li>Expo</li>
